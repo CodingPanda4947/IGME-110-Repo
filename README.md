@@ -9,4 +9,4 @@
 - Strawberry
 - Banana
 
-[Rit Home](https://www.rit.edu/)
+[RIT](https://www.rit.edu/)
