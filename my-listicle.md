@@ -5,7 +5,7 @@
 
 **Height:** Approximatly *90 cm (35 inches)*
 
-**Weight:** Approxiamtly *55 to 65 kg (121 to 143 pounds)*
+**Weight:** Approximatly *55 to 65 kg (121 to 143 pounds)*
 
 ![alpaca staring at the photo graph, there are 3 of them](https://www.bing.com/th?id=OIP.MjaItIprFCffksFKeIbAlwHaFS&w=212&h=150&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)
 ## Bat
