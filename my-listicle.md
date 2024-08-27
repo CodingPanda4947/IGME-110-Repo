@@ -2,9 +2,13 @@
 
 ## Alpaca
 [Britannica Alpaca](https://www.britannica.com/animal/alpaca)
+
 [Alpaca fun facts](http://tonsoffacts.com/25-interesting-and-fun-facts-about-alpacas/)
+
 [Genotypes of Alpacas](https://cottoncreekfarms.com/color-genotyping-of-alpacas-what-we-are-learning/)
+
 [Alpaca's Predators](https://alpacaworldmagazine.com/do-alpacas-have-predators/)
+
 [What Alpacas eat](https://savvyfarmlife.com/what-alpacas-can-and-cant-eat/)
 
 **Height:** Approximatly *90 cm (35 inches)*
