@@ -1,5 +1,7 @@
 # My Listcle on a list of animals
 
+![image](md-images/cassie.jpg)
+
 ## Alpaca
 [Britannica Alpaca](https://www.britannica.com/animal/alpaca)
 
